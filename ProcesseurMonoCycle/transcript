@@ -1,0 +1,2645 @@
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity Unitedetraitement
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement.vhd(10): near "EOF": expecting FUNCTION or PROCEDURE or IMPURE or PURE
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/tb_assemblage1.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity tb_assemblage1
+# -- Compiling architecture bench of tb_assemblage1
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity Unitedetraitement
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement.vhd(10): near "EOF": expecting FUNCTION or PROCEDURE or IMPURE or PURE
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/tb_assemblage1.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity tb_assemblage1
+# -- Compiling architecture bench of tb_assemblage1
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity Unitedetraitement
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement.vhd(10): near "EOF": expecting FUNCTION or PROCEDURE or IMPURE or PURE
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/tb_assemblage1.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity tb_assemblage1
+# -- Compiling architecture bench of tb_assemblage1
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Mux2.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity Mux2
+# -- Compiling architecture archi_mux2 of Mux2
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/extender.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity extender
+# -- Compiling architecture comportement of extender
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/data.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity data
+# -- Compiling architecture Comportement of data
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/bancregistre.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity bancregistre
+# -- Compiling architecture comportement of bancregistre
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Assemblage1.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Assemblage1
+# -- Compiling architecture description of Assemblage1
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Alu_tb.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Alu_tb
+# -- Compiling architecture Bench of Alu_tb
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Alu.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity Alu
+# -- Compiling architecture DESCRIPTION of Alu
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/tb_assemblage1.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity tb_assemblage1
+# -- Compiling architecture bench of tb_assemblage1
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity Unitedetraitement
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement.vhd(10): near "EOF": expecting FUNCTION or PROCEDURE or IMPURE or PURE
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/extender.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity extender
+# -- Compiling architecture comportement of extender
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/tb_assemblage1.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity tb_assemblage1
+# -- Compiling architecture bench of tb_assemblage1
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity Unitedetraitement
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement.vhd(12): near "EOF": expecting FUNCTION or PROCEDURE or IMPURE or PURE
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity Unitedetraitement
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement.vhd(12): near "EOF": expecting FUNCTION or PROCEDURE or IMPURE or PURE
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity Unitedetraitement
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement.vhd(12): near "EOF": expecting FUNCTION or PROCEDURE or IMPURE or PURE
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity Unitedetraitement
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement.vhd(12): near "EOF": expecting FUNCTION or PROCEDURE or IMPURE or PURE
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity Unitedetraitement
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement.vhd(18): near "N1": expecting END
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity Unitedetraitement
+# -- Compiling architecture traitement of unitedetraitement
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement.vhd(24): (vcom-1294) Declaration with designator "MuxOut" already exists in this region.
+# ** =====> Prior declaration of "MuxOut" is at /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement.vhd(24).
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement.vhd(65): (vcom-1294) Declaration with designator "bancregistre" already exists in this region.
+# ** =====> Prior declaration of "bancregistre" is at /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement.vhd(35).
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement.vhd(84): near "entity": expecting COMPONENT
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement.vhd(89): near ";": expecting ',' or ')'
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement.vhd(94): Statement cannot be labeled.
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement.vhd(114): near "Addr": expecting ',' or ')'
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement.vhd(117): Statement cannot be labeled.
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement.vhd(121): Cannot read output "DataOut".
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement.vhd(122): VHDL Compiler exiting
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity Unitedetraitement
+# -- Compiling architecture traitement of unitedetraitement
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement.vhd(24): (vcom-1294) Declaration with designator "MuxOut" already exists in this region.
+# ** =====> Prior declaration of "MuxOut" is at /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement.vhd(24).
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement.vhd(65): (vcom-1294) Declaration with designator "bancregistre" already exists in this region.
+# ** =====> Prior declaration of "bancregistre" is at /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement.vhd(35).
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement.vhd(89): near ";": expecting ',' or ')'
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement.vhd(94): Statement cannot be labeled.
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement.vhd(114): near "Addr": expecting ',' or ')'
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement.vhd(117): Statement cannot be labeled.
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement.vhd(122): VHDL Compiler exiting
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity Unitedetraitement
+# -- Compiling architecture traitement of unitedetraitement
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement.vhd(65): (vcom-1294) Declaration with designator "bancregistre" already exists in this region.
+# ** =====> Prior declaration of "bancregistre" is at /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement.vhd(35).
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement.vhd(89): near ";": expecting ',' or ')'
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement.vhd(94): Statement cannot be labeled.
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement.vhd(114): near "Addr": expecting ',' or ')'
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement.vhd(117): Statement cannot be labeled.
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement.vhd(122): VHDL Compiler exiting
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity Unitedetraitement
+# -- Compiling architecture traitement of unitedetraitement
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement.vhd(78): near ";": expecting ',' or ')'
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement.vhd(83): Statement cannot be labeled.
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement.vhd(103): near "Addr": expecting ',' or ')'
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement.vhd(106): Statement cannot be labeled.
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement.vhd(111): VHDL Compiler exiting
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity Unitedetraitement
+# -- Compiling architecture traitement of unitedetraitement
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement.vhd(80): near "W": expecting ',' or ')'
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement.vhd(83): Statement cannot be labeled.
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement.vhd(104): near "DataOut": expecting ',' or ')'
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement.vhd(106): Statement cannot be labeled.
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement.vhd(111): VHDL Compiler exiting
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity Unitedetraitement
+# -- Compiling architecture traitement of unitedetraitement
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement.vhd(80): (vcom-1025) Formal "W" has already been associated (in whole) at line 77.
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement.vhd(82): Cannot read output "S".
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement.vhd(82): (vcom-1035) Formal port "WE" has OPEN or no actual associated with it.
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement.vhd(104): near "DataOut": expecting ',' or ')'
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement.vhd(106): Statement cannot be labeled.
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement.vhd(111): VHDL Compiler exiting
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity Unitedetraitement
+# -- Compiling architecture traitement of unitedetraitement
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement.vhd(80): (vcom-1025) Formal "W" has already been associated (in whole) at line 77.
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement.vhd(82): Cannot read output "S".
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement.vhd(82): (vcom-1035) Formal port "WE" has OPEN or no actual associated with it.
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement.vhd(103): (vcom-1272) Length of formal "Addr" is 6; length of actual is 32.
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement.vhd(111): VHDL Compiler exiting
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity Unitedetraitement
+# -- Compiling architecture traitement of unitedetraitement
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement.vhd(48): near "generic": expecting FUNCTION or PROCEDURE or IMPURE or PURE
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity Unitedetraitement
+# -- Compiling architecture traitement of unitedetraitement
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement.vhd(46): near "generic": syntax error
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement.vhd(54): near "generic": syntax error
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement.vhd(58): (vcom-1136) Unknown identifier "M".
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement.vhd(58): Bad expression in left bound of range expression.
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement.vhd(58): Type error in range expression.
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement.vhd(82): near ")": syntax error
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement.vhd(104): (vcom-1272) Length of formal "Addr" is 6; length of actual is 32.
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement.vhd(112): VHDL Compiler exiting
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity Unitedetraitement
+# -- Compiling architecture traitement of unitedetraitement
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement.vhd(84): near ")": syntax error
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement.vhd(106): (vcom-1272) Length of formal "Addr" is 6; length of actual is 32.
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement.vhd(114): VHDL Compiler exiting
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity Unitedetraitement
+# -- Compiling architecture traitement of unitedetraitement
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement.vhd(82): near ")": expecting ';'
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement.vhd(84): Statement cannot be labeled.
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement.vhd(104): (vcom-1272) Length of formal "Addr" is 6; length of actual is 32.
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement.vhd(112): VHDL Compiler exiting
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity Unitedetraitement
+# -- Compiling architecture traitement of unitedetraitement
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement.vhd(104): (vcom-1272) Length of formal "Addr" is 6; length of actual is 32.
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement.vhd(112): VHDL Compiler exiting
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity Unitedetraitement
+# -- Compiling architecture traitement of unitedetraitement
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity Unitedetraitement
+# -- Compiling architecture traitement of unitedetraitement
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement.vhd(103): (vcom-1484) Unknown formal identifier "We".
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement.vhd(112): VHDL Compiler exiting
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity Unitedetraitement
+# -- Compiling architecture traitement of unitedetraitement
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement.vhd(103): (vcom-1484) Unknown formal identifier "We".
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement.vhd(112): VHDL Compiler exiting
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity Unitedetraitement
+# -- Compiling architecture traitement of unitedetraitement
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement_tb.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity Unitedetraitement_tb
+# -- Compiling architecture bench of Unitedetraitement_tb
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement_tb.vhd(10): near "in": expecting STRING or IDENTIFIER or << or '('
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement_tb.vhd(11): near "in": expecting STRING or IDENTIFIER or << or '('
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement_tb.vhd(12): near "in": expecting STRING or IDENTIFIER or << or '('
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement_tb.vhd(13): near "in": expecting STRING or IDENTIFIER or << or '('
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement_tb.vhd(14): near "in": expecting STRING or IDENTIFIER or << or '('
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement_tb.vhd(16): near "in": expecting STRING or IDENTIFIER or << or '('
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement_tb.vhd(17): near "out": expecting STRING or IDENTIFIER or << or '('
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement_tb.vhd(18): near "in": expecting STRING or IDENTIFIER or << or '('
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement_tb.vhd(19): near "out": expecting STRING or IDENTIFIER or << or '('
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement_tb.vhd(20): near "out": expecting STRING or IDENTIFIER or << or '('
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement_tb.vhd(30): (vcom-1136) Unknown identifier "N".
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement_tb.vhd(30): Bad expression in left bound of range expression.
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement_tb.vhd(30): Type error in range expression.
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement_tb.vhd(35): near ")": expecting END
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement_tb.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity Unitedetraitement_tb
+# -- Compiling architecture bench of Unitedetraitement_tb
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement_tb.vhd(16): (vcom-1136) Unknown identifier "N".
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement_tb.vhd(16): Bad expression in left bound of range expression.
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement_tb.vhd(16): Type error in range expression.
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement_tb.vhd(20): near ")": expecting ';'
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement_tb.vhd(30): (vcom-1136) Unknown identifier "N".
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement_tb.vhd(30): Bad expression in left bound of range expression.
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement_tb.vhd(30): Type error in range expression.
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement_tb.vhd(35): near ")": expecting END
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement_tb.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity Unitedetraitement_tb
+# -- Compiling architecture bench of Unitedetraitement_tb
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement_tb.vhd(15): (vcom-1294) Declaration with designator "sel1" already exists in this region.
+# ** =====> Prior declaration of "sel1" is at /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement_tb.vhd(13).
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement_tb.vhd(15): (vcom-1294) Declaration with designator "sel2" already exists in this region.
+# ** =====> Prior declaration of "sel2" is at /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement_tb.vhd(13).
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement_tb.vhd(16): (vcom-1136) Unknown identifier "N".
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement_tb.vhd(16): Bad expression in left bound of range expression.
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement_tb.vhd(16): Type error in range expression.
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement_tb.vhd(20): near ")": expecting ';'
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement_tb.vhd(30): (vcom-1136) Unknown identifier "N".
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement_tb.vhd(30): Bad expression in left bound of range expression.
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement_tb.vhd(30): Type error in range expression.
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement_tb.vhd(35): near ")": expecting END
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement_tb.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity Unitedetraitement_tb
+# -- Compiling architecture bench of Unitedetraitement_tb
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement_tb.vhd(15): (vcom-1294) Declaration with designator "sel1" already exists in this region.
+# ** =====> Prior declaration of "sel1" is at /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement_tb.vhd(13).
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement_tb.vhd(15): (vcom-1294) Declaration with designator "sel2" already exists in this region.
+# ** =====> Prior declaration of "sel2" is at /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement_tb.vhd(13).
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement_tb.vhd(16): (vcom-1136) Unknown identifier "N".
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement_tb.vhd(16): Bad expression in left bound of range expression.
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement_tb.vhd(16): Type error in range expression.
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement_tb.vhd(20): near ")": expecting ';'
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement_tb.vhd(30): (vcom-1136) Unknown identifier "N".
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement_tb.vhd(30): Bad expression in left bound of range expression.
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement_tb.vhd(30): Type error in range expression.
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement_tb.vhd(35): near ")": expecting END
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement_tb.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity Unitedetraitement_tb
+# -- Compiling architecture bench of Unitedetraitement_tb
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement_tb.vhd(15): (vcom-1294) Declaration with designator "sel1" already exists in this region.
+# ** =====> Prior declaration of "sel1" is at /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement_tb.vhd(13).
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement_tb.vhd(15): (vcom-1294) Declaration with designator "sel2" already exists in this region.
+# ** =====> Prior declaration of "sel2" is at /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement_tb.vhd(13).
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement_tb.vhd(20): near ")": expecting ';'
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement_tb.vhd(35): near ")": expecting END
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement_tb.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity Unitedetraitement_tb
+# -- Compiling architecture bench of Unitedetraitement_tb
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement_tb.vhd(19): near ")": expecting ';'
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement_tb.vhd(34): near ")": expecting END
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement_tb.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity Unitedetraitement_tb
+# -- Compiling architecture bench of Unitedetraitement_tb
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement_tb.vhd(19): near ")": expecting ';'
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement_tb.vhd(34): near ")": expecting END
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement_tb.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity Unitedetraitement_tb
+# -- Compiling architecture bench of Unitedetraitement_tb
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement_tb.vhd(19): near ")": expecting ';'
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement_tb.vhd(34): near ")": expecting END
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement_tb.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity Unitedetraitement_tb
+# -- Compiling architecture bench of Unitedetraitement_tb
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement_tb.vhd(34): near ")": expecting END
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement_tb.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity Unitedetraitement_tb
+# -- Compiling architecture bench of Unitedetraitement_tb
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement_tb.vhd(34): near ")": expecting ';'
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement_tb.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity Unitedetraitement_tb
+# -- Compiling architecture bench of Unitedetraitement_tb
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement_tb.vhd(34): near ")": expecting ';'
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement_tb.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity Unitedetraitement_tb
+# -- Compiling architecture bench of Unitedetraitement_tb
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement_tb.vhd(37): near "begin": expecting ';'
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement_tb.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity Unitedetraitement_tb
+# -- Compiling architecture bench of Unitedetraitement_tb
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement_tb.vhd(38): (vcom-1141) Identifier "Assemblage" does not identify a component declaration.
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement_tb.vhd(46): Illegal target for signal assignment.
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement_tb.vhd(46): (vcom-1136) Unknown identifier "regWr".
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement_tb.vhd(53): Illegal target for signal assignment.
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement_tb.vhd(53): (vcom-1136) Unknown identifier "WrEn".
+# ** Warning: [2] /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement_tb.vhd(55): (vcom-1090) Possible infinite loop: Process contains no WAIT statement.
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement_tb.vhd(56): VHDL Compiler exiting
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement_tb.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity Unitedetraitement_tb
+# -- Compiling architecture bench of Unitedetraitement_tb
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement_tb.vhd(16): near "in": expecting STRING or IDENTIFIER or << or '('
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement_tb.vhd(39): (vcom-1141) Identifier "Assemblage" does not identify a component declaration.
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement_tb.vhd(47): Illegal target for signal assignment.
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement_tb.vhd(47): (vcom-1136) Unknown identifier "regWr".
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement_tb.vhd(54): Illegal target for signal assignment.
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement_tb.vhd(54): (vcom-1136) Unknown identifier "WrEn".
+# ** Warning: [2] /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement_tb.vhd(56): (vcom-1090) Possible infinite loop: Process contains no WAIT statement.
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement_tb.vhd(57): VHDL Compiler exiting
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement_tb.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity Unitedetraitement_tb
+# -- Compiling architecture bench of Unitedetraitement_tb
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement_tb.vhd(39): (vcom-1141) Identifier "Assemblage" does not identify a component declaration.
+# ** Warning: [2] /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement_tb.vhd(56): (vcom-1090) Possible infinite loop: Process contains no WAIT statement.
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement_tb.vhd(57): VHDL Compiler exiting
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement_tb.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity Unitedetraitement_tb
+# -- Compiling architecture bench of Unitedetraitement_tb
+# ** Warning: [2] /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement_tb.vhd(56): (vcom-1090) Possible infinite loop: Process contains no WAIT statement.
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement_tb.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity Unitedetraitement_tb
+# -- Compiling architecture bench of Unitedetraitement_tb
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement_tb.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity Unitedetraitement_tb
+# -- Compiling architecture bench of Unitedetraitement_tb
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity Unitedetraitement
+# -- Compiling architecture traitement of unitedetraitement
+vsim work.unitedetraitement work.unitedetraitement_tb
+# vsim work.unitedetraitement work.unitedetraitement_tb 
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.unitedetraitement(traitement)
+# Loading work.unitedetraitement_tb(bench)
+# Loading work.extender(comportement)
+# Loading work.alu(description)
+# Loading work.mux2(archi_mux2)
+# Loading work.bancregistre(comportement)
+# Loading work.data(comportement)
+# ** Warning: (vsim-8683) Uninitialized out port /unitedetraitement_tb/u1/flag has no driver.
+# This port will contribute value (U) to the signal network.
+# ** Warning: (vsim-8683) Uninitialized out port /unitedetraitement_tb/u1/N2 has no driver.
+# This port will contribute value (U) to the signal network.
+add wave -position end  sim:/unitedetraitement_tb/RW
+add wave -position end  sim:/unitedetraitement_tb/RA
+add wave -position end  sim:/unitedetraitement_tb/RB
+add wave -position end  sim:/unitedetraitement_tb/We
+add wave -position end  sim:/unitedetraitement_tb/clock
+add wave -position end  sim:/unitedetraitement_tb/COM1
+add wave -position end  sim:/unitedetraitement_tb/COM2
+add wave -position end  sim:/unitedetraitement_tb/sel1
+add wave -position end  sim:/unitedetraitement_tb/sel2
+add wave -position end  sim:/unitedetraitement_tb/Op
+add wave -position end  sim:/unitedetraitement_tb/Imm
+add wave -position end  sim:/unitedetraitement_tb/regWr
+add wave -position end  sim:/unitedetraitement_tb/WrEn
+add wave -position end  sim:/unitedetraitement_tb/flag
+add wave -position end  sim:/unitedetraitement_tb/W
+add wave -position end  sim:/unitedetraitement_tb/S
+add wave -position end  sim:/unitedetraitement_tb/N1
+add wave -position end  sim:/unitedetraitement_tb/N2
+
+
+
+run
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /unitedetraitement_tb/u1/UUT4
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /unitedetraitement_tb/u1/UUT3
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /unitedetraitement_tb/u1/UUT3
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /unitedetraitement_tb/u1/UUT
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /unitedetraitement/UUT4
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /unitedetraitement/UUT3
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /unitedetraitement/UUT3
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /unitedetraitement/UUT
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 3  Instance: /unitedetraitement_tb/u1/UUT4
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity Unitedetraitement
+# -- Compiling architecture traitement of unitedetraitement
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement_tb.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity Unitedetraitement_tb
+# -- Compiling architecture bench of Unitedetraitement_tb
+quit -sim
+vsim work.unitedetraitement work.unitedetraitement_tb
+# vsim work.unitedetraitement work.unitedetraitement_tb 
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.unitedetraitement(traitement)
+# Loading work.unitedetraitement_tb(bench)
+# Loading work.extender(comportement)
+# Loading work.alu(description)
+# Loading work.mux2(archi_mux2)
+# Loading work.bancregistre(comportement)
+# Loading work.data(comportement)
+# ** Warning: (vsim-8683) Uninitialized out port /unitedetraitement_tb/u1/flag has no driver.
+# This port will contribute value (U) to the signal network.
+# ** Warning: (vsim-8683) Uninitialized out port /unitedetraitement_tb/u1/N2 has no driver.
+# This port will contribute value (U) to the signal network.
+add wave -position end  sim:/unitedetraitement_tb/RW
+add wave -position end  sim:/unitedetraitement_tb/RA
+add wave -position end  sim:/unitedetraitement_tb/RB
+add wave -position end  sim:/unitedetraitement_tb/We
+add wave -position end  sim:/unitedetraitement_tb/clock
+add wave -position end  sim:/unitedetraitement_tb/COM1
+add wave -position end  sim:/unitedetraitement_tb/COM2
+add wave -position end  sim:/unitedetraitement_tb/sel1
+add wave -position end  sim:/unitedetraitement_tb/sel2
+add wave -position end  sim:/unitedetraitement_tb/Op
+add wave -position end  sim:/unitedetraitement_tb/Imm
+add wave -position end  sim:/unitedetraitement_tb/regWr
+add wave -position end  sim:/unitedetraitement_tb/WrEn
+add wave -position end  sim:/unitedetraitement_tb/flag
+add wave -position end  sim:/unitedetraitement_tb/W
+add wave -position end  sim:/unitedetraitement_tb/S
+add wave -position end  sim:/unitedetraitement_tb/N1
+add wave -position end  sim:/unitedetraitement_tb/N2
+
+
+run -n
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /unitedetraitement_tb/u1/UUT4
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /unitedetraitement_tb/u1/UUT3
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /unitedetraitement_tb/u1/UUT3
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /unitedetraitement_tb/u1/UUT
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /unitedetraitement/UUT4
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /unitedetraitement/UUT3
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /unitedetraitement/UUT3
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /unitedetraitement/UUT
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 3  Instance: /unitedetraitement_tb/u1/UUT4
+run -n
+run -n
+run -n
+run -n
+run -n
+run -n
+run -n
+run -n
+run -n
+run -n
+run -n
+run -n
+run -n
+run -n
+run -n
+run -n
+run -n
+run -n
+add wave -position end  sim:/unitedetraitement_tb/clock
+quit -sim
+vsim work.unitedetraitement_tb
+# vsim work.unitedetraitement_tb 
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.unitedetraitement_tb(bench)
+# Loading work.unitedetraitement(traitement)
+# Loading work.extender(comportement)
+# Loading work.alu(description)
+# Loading work.mux2(archi_mux2)
+# Loading work.bancregistre(comportement)
+# Loading work.data(comportement)
+# ** Warning: (vsim-8683) Uninitialized out port /unitedetraitement_tb/u1/flag has no driver.
+# This port will contribute value (U) to the signal network.
+# ** Warning: (vsim-8683) Uninitialized out port /unitedetraitement_tb/u1/N2 has no driver.
+# This port will contribute value (U) to the signal network.
+vsim work.unitedetraitement_tb
+# vsim work.unitedetraitement_tb 
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.unitedetraitement_tb(bench)
+# Loading work.unitedetraitement(traitement)
+# Loading work.extender(comportement)
+# Loading work.alu(description)
+# Loading work.mux2(archi_mux2)
+# Loading work.bancregistre(comportement)
+# Loading work.data(comportement)
+# ** Warning: (vsim-8683) Uninitialized out port /unitedetraitement_tb/u1/flag has no driver.
+# This port will contribute value (U) to the signal network.
+# ** Warning: (vsim-8683) Uninitialized out port /unitedetraitement_tb/u1/N2 has no driver.
+# This port will contribute value (U) to the signal network.
+add wave -position end  sim:/unitedetraitement_tb/RW
+add wave -position end  sim:/unitedetraitement_tb/RA
+add wave -position end  sim:/unitedetraitement_tb/RB
+add wave -position end  sim:/unitedetraitement_tb/We
+add wave -position end  sim:/unitedetraitement_tb/clock
+add wave -position end  sim:/unitedetraitement_tb/COM1
+add wave -position end  sim:/unitedetraitement_tb/COM2
+add wave -position end  sim:/unitedetraitement_tb/sel1
+add wave -position end  sim:/unitedetraitement_tb/sel2
+add wave -position end  sim:/unitedetraitement_tb/Op
+add wave -position end  sim:/unitedetraitement_tb/Imm
+add wave -position end  sim:/unitedetraitement_tb/regWr
+add wave -position end  sim:/unitedetraitement_tb/WrEn
+add wave -position end  sim:/unitedetraitement_tb/flag
+add wave -position end  sim:/unitedetraitement_tb/W
+add wave -position end  sim:/unitedetraitement_tb/S
+add wave -position end  sim:/unitedetraitement_tb/N1
+add wave -position end  sim:/unitedetraitement_tb/N2
+
+
+
+run
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /unitedetraitement_tb/u1/UUT4
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /unitedetraitement_tb/u1/UUT3
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /unitedetraitement_tb/u1/UUT3
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /unitedetraitement_tb/u1/UUT
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 3  Instance: /unitedetraitement_tb/u1/UUT4
+run
+run
+run
+run
+run -n
+run
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement_tb.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity Unitedetraitement_tb
+# -- Compiling architecture bench of Unitedetraitement_tb
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement_tb.vhd(12): Integer literal 0 is not of type ieee.std_logic_1164.STD_LOGIC.
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement_tb.vhd(102): VHDL Compiler exiting
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity Unitedetraitement
+# -- Compiling architecture traitement of unitedetraitement
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement_tb.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity Unitedetraitement_tb
+# -- Compiling architecture bench of Unitedetraitement_tb
+quit -sim
+vsim work.unitedetraitement_tb
+# vsim work.unitedetraitement_tb 
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.unitedetraitement_tb(bench)
+# Loading work.unitedetraitement(traitement)
+# Loading work.extender(comportement)
+# Loading work.alu(description)
+# Loading work.mux2(archi_mux2)
+# Loading work.bancregistre(comportement)
+# Loading work.data(comportement)
+# ** Warning: (vsim-8683) Uninitialized out port /unitedetraitement_tb/u1/flag has no driver.
+# This port will contribute value (U) to the signal network.
+# ** Warning: (vsim-8683) Uninitialized out port /unitedetraitement_tb/u1/N2 has no driver.
+# This port will contribute value (U) to the signal network.
+add wave -position end  sim:/unitedetraitement_tb/RW
+add wave -position end  sim:/unitedetraitement_tb/RA
+add wave -position end  sim:/unitedetraitement_tb/RB
+add wave -position end  sim:/unitedetraitement_tb/We
+add wave -position end  sim:/unitedetraitement_tb/clock
+add wave -position end  sim:/unitedetraitement_tb/COM1
+add wave -position end  sim:/unitedetraitement_tb/COM2
+add wave -position end  sim:/unitedetraitement_tb/sel1
+add wave -position end  sim:/unitedetraitement_tb/sel2
+add wave -position end  sim:/unitedetraitement_tb/Op
+add wave -position end  sim:/unitedetraitement_tb/Imm
+add wave -position end  sim:/unitedetraitement_tb/regWr
+add wave -position end  sim:/unitedetraitement_tb/WrEn
+add wave -position end  sim:/unitedetraitement_tb/flag
+add wave -position end  sim:/unitedetraitement_tb/W
+add wave -position end  sim:/unitedetraitement_tb/S
+add wave -position end  sim:/unitedetraitement_tb/N1
+add wave -position end  sim:/unitedetraitement_tb/N2
+
+
+run -n 
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /unitedetraitement_tb/u1/UUT4
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /unitedetraitement_tb/u1/UUT3
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /unitedetraitement_tb/u1/UUT3
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /unitedetraitement_tb/u1/UUT
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 3  Instance: /unitedetraitement_tb/u1/UUT4
+run -n
+run -n
+run -n
+run -n
+run -n
+run -n
+run -n
+run -n
+run -n
+run -n
+run -n
+run -n
+run -n
+run -n
+run -n
+run -n
+run -n
+run -n
+run -n
+run -n
+run -n
+run -n
+run -n
+add wave -position end  sim:/unitedetraitement_tb/u1/UUT3/Registre
+restart
+# ** Warning: (vsim-8683) Uninitialized out port /unitedetraitement_tb/u1/flag has no driver.
+# This port will contribute value (U) to the signal network.
+# ** Warning: (vsim-8683) Uninitialized out port /unitedetraitement_tb/u1/N2 has no driver.
+# This port will contribute value (U) to the signal network.
+run
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /unitedetraitement_tb/u1/UUT4
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /unitedetraitement_tb/u1/UUT3
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /unitedetraitement_tb/u1/UUT3
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /unitedetraitement_tb/u1/UUT
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 3  Instance: /unitedetraitement_tb/u1/UUT4
+restart
+# ** Warning: (vsim-8683) Uninitialized out port /unitedetraitement_tb/u1/flag has no driver.
+# This port will contribute value (U) to the signal network.
+# ** Warning: (vsim-8683) Uninitialized out port /unitedetraitement_tb/u1/N2 has no driver.
+# This port will contribute value (U) to the signal network.
+
+
+run -n
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /unitedetraitement_tb/u1/UUT4
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /unitedetraitement_tb/u1/UUT3
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /unitedetraitement_tb/u1/UUT3
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /unitedetraitement_tb/u1/UUT
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 3  Instance: /unitedetraitement_tb/u1/UUT4
+run -n
+run -n
+run -n
+run -n
+run -n
+run -n
+run -n
+add wave -position end  sim:/unitedetraitement_tb/u1/UUT2/S
+restart
+# ** Warning: (vsim-8683) Uninitialized out port /unitedetraitement_tb/u1/flag has no driver.
+# This port will contribute value (U) to the signal network.
+# ** Warning: (vsim-8683) Uninitialized out port /unitedetraitement_tb/u1/N2 has no driver.
+# This port will contribute value (U) to the signal network.
+run -n
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /unitedetraitement_tb/u1/UUT4
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /unitedetraitement_tb/u1/UUT3
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /unitedetraitement_tb/u1/UUT3
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /unitedetraitement_tb/u1/UUT
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 3  Instance: /unitedetraitement_tb/u1/UUT4
+run -n
+run -n
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement_tb.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity Unitedetraitement_tb
+# -- Compiling architecture bench of Unitedetraitement_tb
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity Unitedetraitement
+# -- Compiling architecture traitement of unitedetraitement
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement_tb.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity Unitedetraitement_tb
+# -- Compiling architecture bench of Unitedetraitement_tb
+restart
+# Loading work.unitedetraitement_tb(bench)
+# Loading work.unitedetraitement(traitement)
+# ** Warning: (vsim-8683) Uninitialized out port /unitedetraitement_tb/u1/flag has no driver.
+# This port will contribute value (U) to the signal network.
+# ** Warning: (vsim-8683) Uninitialized out port /unitedetraitement_tb/u1/N2 has no driver.
+# This port will contribute value (U) to the signal network.
+# Warning in wave window restart: (vish-4014) No objects found matching '/unitedetraitement_tb/COM1'. 
+# Warning in wave window restart: (vish-4014) No objects found matching '/unitedetraitement_tb/COM2'. 
+
+run -n
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /unitedetraitement_tb/u1/UUT4
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /unitedetraitement_tb/u1/UUT3
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /unitedetraitement_tb/u1/UUT3
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /unitedetraitement_tb/u1/UUT
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 3  Instance: /unitedetraitement_tb/u1/UUT4
+run -n
+run -n
+add wave -position end  sim:/unitedetraitement_tb/u1/UUT2/A
+restart
+# ** Warning: (vsim-8683) Uninitialized out port /unitedetraitement_tb/u1/flag has no driver.
+# This port will contribute value (U) to the signal network.
+# ** Warning: (vsim-8683) Uninitialized out port /unitedetraitement_tb/u1/N2 has no driver.
+# This port will contribute value (U) to the signal network.
+
+run -n
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /unitedetraitement_tb/u1/UUT4
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /unitedetraitement_tb/u1/UUT3
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /unitedetraitement_tb/u1/UUT3
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /unitedetraitement_tb/u1/UUT
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 3  Instance: /unitedetraitement_tb/u1/UUT4
+run -n
+run -n
+restart
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement_tb.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity Unitedetraitement_tb
+# -- Compiling architecture bench of Unitedetraitement_tb
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement_tb.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity Unitedetraitement_tb
+# -- Compiling architecture bench of Unitedetraitement_tb
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/tb_assemblage1.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity tb_assemblage1
+# -- Compiling architecture bench of tb_assemblage1
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Mux2.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity Mux2
+# -- Compiling architecture archi_mux2 of Mux2
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Mux2.vhd(16): near ",": expecting ';'
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Mux2.vhd(18): VHDL Compiler exiting
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/extender.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity extender
+# -- Compiling architecture comportement of extender
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/data.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity data
+# -- Compiling architecture Comportement of data
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/data.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity data
+# -- Compiling architecture Comportement of data
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/bancregistre.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity bancregistre
+# -- Compiling architecture comportement of bancregistre
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity Unitedetraitement
+# -- Compiling architecture traitement of unitedetraitement
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/extender.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity extender
+# -- Compiling architecture comportement of extender
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Alu_tb.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Alu_tb
+# -- Compiling architecture Bench of Alu_tb
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Assemblage1.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Assemblage1
+# -- Compiling architecture description of Assemblage1
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Alu.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity Alu
+# -- Compiling architecture DESCRIPTION of Alu
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement_tb.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity Unitedetraitement_tb
+# -- Compiling architecture bench of Unitedetraitement_tb
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement_tb.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity Unitedetraitement_tb
+# -- Compiling architecture bench of Unitedetraitement_tb
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/tb_assemblage1.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity tb_assemblage1
+# -- Compiling architecture bench of tb_assemblage1
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Mux2.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity Mux2
+# -- Compiling architecture archi_mux2 of Mux2
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Mux2.vhd(16): near "select": syntax error
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Mux2.vhd(19): VHDL Compiler exiting
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/extender.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity extender
+# -- Compiling architecture comportement of extender
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/data.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity data
+# -- Compiling architecture Comportement of data
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/data.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity data
+# -- Compiling architecture Comportement of data
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/bancregistre.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity bancregistre
+# -- Compiling architecture comportement of bancregistre
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity Unitedetraitement
+# -- Compiling architecture traitement of unitedetraitement
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/extender.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity extender
+# -- Compiling architecture comportement of extender
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Alu_tb.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Alu_tb
+# -- Compiling architecture Bench of Alu_tb
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Assemblage1.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Assemblage1
+# -- Compiling architecture description of Assemblage1
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Alu.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity Alu
+# -- Compiling architecture DESCRIPTION of Alu
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement_tb.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity Unitedetraitement_tb
+# -- Compiling architecture bench of Unitedetraitement_tb
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Alu.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity Alu
+# -- Compiling architecture DESCRIPTION of Alu
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Alu_tb.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Alu_tb
+# -- Compiling architecture Bench of Alu_tb
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Assemblage1.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Assemblage1
+# -- Compiling architecture description of Assemblage1
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/bancregistre.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity bancregistre
+# -- Compiling architecture comportement of bancregistre
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/data.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity data
+# -- Compiling architecture Comportement of data
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/extender.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity extender
+# -- Compiling architecture comportement of extender
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Mux2.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity Mux2
+# -- Compiling architecture archi_mux2 of Mux2
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Mux2.vhd(16): near "select": syntax error
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Mux2.vhd(19): VHDL Compiler exiting
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/tb_assemblage1.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity tb_assemblage1
+# -- Compiling architecture bench of tb_assemblage1
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity Unitedetraitement
+# -- Compiling architecture traitement of unitedetraitement
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement_tb.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity Unitedetraitement_tb
+# -- Compiling architecture bench of Unitedetraitement_tb
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement_tb.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity Unitedetraitement_tb
+# -- Compiling architecture bench of Unitedetraitement_tb
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/tb_assemblage1.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity tb_assemblage1
+# -- Compiling architecture bench of tb_assemblage1
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Mux2.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity Mux2
+# -- Compiling architecture archi_mux2 of Mux2
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Mux2.vhd(16): (vcom-1339) Selected signal assignment choices cover only 2 out of 9 cases.
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Mux2.vhd(19): VHDL Compiler exiting
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/extender.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity extender
+# -- Compiling architecture comportement of extender
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/data.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity data
+# -- Compiling architecture Comportement of data
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/data.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity data
+# -- Compiling architecture Comportement of data
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/bancregistre.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity bancregistre
+# -- Compiling architecture comportement of bancregistre
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity Unitedetraitement
+# -- Compiling architecture traitement of unitedetraitement
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/extender.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity extender
+# -- Compiling architecture comportement of extender
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Alu_tb.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Alu_tb
+# -- Compiling architecture Bench of Alu_tb
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Assemblage1.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Assemblage1
+# -- Compiling architecture description of Assemblage1
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Alu.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity Alu
+# -- Compiling architecture DESCRIPTION of Alu
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement_tb.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity Unitedetraitement_tb
+# -- Compiling architecture bench of Unitedetraitement_tb
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Alu.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity Alu
+# -- Compiling architecture DESCRIPTION of Alu
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Alu_tb.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Alu_tb
+# -- Compiling architecture Bench of Alu_tb
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Assemblage1.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Assemblage1
+# -- Compiling architecture description of Assemblage1
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/bancregistre.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity bancregistre
+# -- Compiling architecture comportement of bancregistre
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/data.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity data
+# -- Compiling architecture Comportement of data
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/extender.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity extender
+# -- Compiling architecture comportement of extender
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Mux2.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity Mux2
+# -- Compiling architecture archi_mux2 of Mux2
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Mux2.vhd(16): (vcom-1339) Selected signal assignment choices cover only 2 out of 9 cases.
+# ** Error: /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Mux2.vhd(19): VHDL Compiler exiting
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/tb_assemblage1.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity tb_assemblage1
+# -- Compiling architecture bench of tb_assemblage1
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity Unitedetraitement
+# -- Compiling architecture traitement of unitedetraitement
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement_tb.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity Unitedetraitement_tb
+# -- Compiling architecture bench of Unitedetraitement_tb
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement_tb.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity Unitedetraitement_tb
+# -- Compiling architecture bench of Unitedetraitement_tb
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/tb_assemblage1.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity tb_assemblage1
+# -- Compiling architecture bench of tb_assemblage1
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Mux2.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity Mux2
+# -- Compiling architecture archi_mux2 of Mux2
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/extender.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity extender
+# -- Compiling architecture comportement of extender
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/data.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity data
+# -- Compiling architecture Comportement of data
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/data.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity data
+# -- Compiling architecture Comportement of data
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/bancregistre.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity bancregistre
+# -- Compiling architecture comportement of bancregistre
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity Unitedetraitement
+# -- Compiling architecture traitement of unitedetraitement
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/extender.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity extender
+# -- Compiling architecture comportement of extender
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Alu_tb.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Alu_tb
+# -- Compiling architecture Bench of Alu_tb
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Assemblage1.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Assemblage1
+# -- Compiling architecture description of Assemblage1
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Alu.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity Alu
+# -- Compiling architecture DESCRIPTION of Alu
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement_tb.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity Unitedetraitement_tb
+# -- Compiling architecture bench of Unitedetraitement_tb
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Alu.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity Alu
+# -- Compiling architecture DESCRIPTION of Alu
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Alu_tb.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Alu_tb
+# -- Compiling architecture Bench of Alu_tb
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Assemblage1.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Assemblage1
+# -- Compiling architecture description of Assemblage1
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/bancregistre.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity bancregistre
+# -- Compiling architecture comportement of bancregistre
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/data.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity data
+# -- Compiling architecture Comportement of data
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/extender.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity extender
+# -- Compiling architecture comportement of extender
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Mux2.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity Mux2
+# -- Compiling architecture archi_mux2 of Mux2
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/tb_assemblage1.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity tb_assemblage1
+# -- Compiling architecture bench of tb_assemblage1
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity Unitedetraitement
+# -- Compiling architecture traitement of unitedetraitement
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement_tb.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity Unitedetraitement_tb
+# -- Compiling architecture bench of Unitedetraitement_tb
+restart
+# Loading work.unitedetraitement_tb(bench)
+# Loading work.unitedetraitement(traitement)
+# Loading work.extender(comportement)
+# Loading work.alu(description)
+# Loading work.mux2(archi_mux2)
+# Loading work.bancregistre(comportement)
+# Loading work.data(comportement)
+# ** Warning: (vsim-8683) Uninitialized out port /unitedetraitement_tb/u1/flag has no driver.
+# This port will contribute value (U) to the signal network.
+# ** Warning: (vsim-8683) Uninitialized out port /unitedetraitement_tb/u1/N2 has no driver.
+# This port will contribute value (U) to the signal network.
+run -n
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /unitedetraitement_tb/u1/UUT4
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /unitedetraitement_tb/u1/UUT3
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /unitedetraitement_tb/u1/UUT3
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /unitedetraitement_tb/u1/UUT
+run -n
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 50 ns  Iteration: 4  Instance: /unitedetraitement_tb/u1/UUT4
+run -n
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement_tb.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity Unitedetraitement_tb
+# -- Compiling architecture bench of Unitedetraitement_tb
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/tb_assemblage1.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity tb_assemblage1
+# -- Compiling architecture bench of tb_assemblage1
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Mux2.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity Mux2
+# -- Compiling architecture archi_mux2 of Mux2
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/extender.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity extender
+# -- Compiling architecture comportement of extender
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/data.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity data
+# -- Compiling architecture Comportement of data
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/data.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity data
+# -- Compiling architecture Comportement of data
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/bancregistre.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity bancregistre
+# -- Compiling architecture comportement of bancregistre
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity Unitedetraitement
+# -- Compiling architecture traitement of unitedetraitement
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/extender.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity extender
+# -- Compiling architecture comportement of extender
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Alu_tb.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Alu_tb
+# -- Compiling architecture Bench of Alu_tb
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Assemblage1.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Assemblage1
+# -- Compiling architecture description of Assemblage1
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Alu.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity Alu
+# -- Compiling architecture DESCRIPTION of Alu
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement_tb.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity Unitedetraitement_tb
+# -- Compiling architecture bench of Unitedetraitement_tb
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Alu.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity Alu
+# -- Compiling architecture DESCRIPTION of Alu
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Alu_tb.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Alu_tb
+# -- Compiling architecture Bench of Alu_tb
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Assemblage1.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Assemblage1
+# -- Compiling architecture description of Assemblage1
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/bancregistre.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity bancregistre
+# -- Compiling architecture comportement of bancregistre
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/data.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity data
+# -- Compiling architecture Comportement of data
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/extender.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity extender
+# -- Compiling architecture comportement of extender
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Mux2.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity Mux2
+# -- Compiling architecture archi_mux2 of Mux2
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/tb_assemblage1.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity tb_assemblage1
+# -- Compiling architecture bench of tb_assemblage1
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity Unitedetraitement
+# -- Compiling architecture traitement of unitedetraitement
+vcom -reportprogress 300 -work work /nfs/home/sasl/eleves/ei-se/3407544/ProcesseurMonoCycle/Unitedetraitement_tb.vhd
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity Unitedetraitement_tb
+# -- Compiling architecture bench of Unitedetraitement_tb
+restart
+# Loading work.unitedetraitement_tb(bench)
+# Loading work.unitedetraitement(traitement)
+# Loading work.extender(comportement)
+# Loading work.alu(description)
+# Loading work.mux2(archi_mux2)
+# Loading work.bancregistre(comportement)
+# Loading work.data(comportement)
+# ** Warning: (vsim-8683) Uninitialized out port /unitedetraitement_tb/u1/flag has no driver.
+# This port will contribute value (U) to the signal network.
+# ** Warning: (vsim-8683) Uninitialized out port /unitedetraitement_tb/u1/N2 has no driver.
+# This port will contribute value (U) to the signal network.
+run
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /unitedetraitement_tb/u1/UUT4
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /unitedetraitement_tb/u1/UUT3
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /unitedetraitement_tb/u1/UUT3
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /unitedetraitement_tb/u1/UUT
+run
+run -n
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 50 ns  Iteration: 4  Instance: /unitedetraitement_tb/u1/UUT4
+run -n
+add wave -position end  sim:/unitedetraitement_tb/u1/UUT1/A
+restart
+# ** Warning: (vsim-8683) Uninitialized out port /unitedetraitement_tb/u1/flag has no driver.
+# This port will contribute value (U) to the signal network.
+# ** Warning: (vsim-8683) Uninitialized out port /unitedetraitement_tb/u1/N2 has no driver.
+# This port will contribute value (U) to the signal network.
+
+
+run -n
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /unitedetraitement_tb/u1/UUT4
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /unitedetraitement_tb/u1/UUT3
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /unitedetraitement_tb/u1/UUT3
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /unitedetraitement_tb/u1/UUT
+run -n
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 50 ns  Iteration: 4  Instance: /unitedetraitement_tb/u1/UUT4
+run -n
+add wave -position end  sim:/unitedetraitement_tb/u1/UUT3/A
+add wave -position end  sim:/unitedetraitement_tb/u1/UUT3/RA
+quit -sim
+# Loading project tp1
+# Compile of Alu.vhd was successful.
+# Compile of Alu_tb.vhd was successful.
+# Compile of Assemblage1.vhd was successful.
+# Compile of bancregistre.vhd was successful.
+# Compile of data.vhd was successful.
+# Compile of extender.vhd was successful.
+# Compile of Mux2.vhd was successful.
+# Compile of tb_assemblage1.vhd was successful.
+# Compile of Unitedetraitement.vhd was successful.
+# Compile of Unitedetraitement_tb.vhd was successful.
+# 10 compiles, 0 failed with no errors. 
+vsim work.unitedetraitement_tb(bench)
+# vsim work.unitedetraitement_tb(bench) 
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.unitedetraitement_tb(bench)
+# Loading work.unitedetraitement(traitement)
+# Loading work.extender(comportement)
+# Loading work.alu(description)
+# Loading work.mux2(archi_mux2)
+# Loading work.bancregistre(comportement)
+# Loading work.data(comportement)
+# ** Warning: (vsim-8683) Uninitialized out port /unitedetraitement_tb/u1/flag has no driver.
+# This port will contribute value (U) to the signal network.
+# ** Warning: (vsim-8683) Uninitialized out port /unitedetraitement_tb/u1/N2 has no driver.
+# This port will contribute value (U) to the signal network.
+run -n
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /unitedetraitement_tb/u1/UUT4
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /unitedetraitement_tb/u1/UUT3
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /unitedetraitement_tb/u1/UUT3
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /unitedetraitement_tb/u1/UUT
+
+run -n
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 50 ns  Iteration: 4  Instance: /unitedetraitement_tb/u1/UUT4
+add wave -position end  sim:/unitedetraitement_tb/Imm
+add wave -position end  sim:/unitedetraitement_tb/N1
+add wave -position end  sim:/unitedetraitement_tb/N2
+add wave -position end  sim:/unitedetraitement_tb/Op
+add wave -position end  sim:/unitedetraitement_tb/RA
+add wave -position end  sim:/unitedetraitement_tb/RB
+add wave -position end  sim:/unitedetraitement_tb/RW
+add wave -position end  sim:/unitedetraitement_tb/S
+add wave -position end  sim:/unitedetraitement_tb/W
+add wave -position end  sim:/unitedetraitement_tb/We
+add wave -position end  sim:/unitedetraitement_tb/WrEn
+add wave -position end  sim:/unitedetraitement_tb/clock
+add wave -position end  sim:/unitedetraitement_tb/flag
+add wave -position end  sim:/unitedetraitement_tb/regWr
+add wave -position end  sim:/unitedetraitement_tb/sel1
+add wave -position end  sim:/unitedetraitement_tb/sel2
+restart
+# ** Warning: (vsim-8683) Uninitialized out port /unitedetraitement_tb/u1/flag has no driver.
+# This port will contribute value (U) to the signal network.
+# ** Warning: (vsim-8683) Uninitialized out port /unitedetraitement_tb/u1/N2 has no driver.
+# This port will contribute value (U) to the signal network.
+run -n
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /unitedetraitement_tb/u1/UUT4
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /unitedetraitement_tb/u1/UUT3
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /unitedetraitement_tb/u1/UUT3
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /unitedetraitement_tb/u1/UUT
+run -n
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 50 ns  Iteration: 4  Instance: /unitedetraitement_tb/u1/UUT4
+run -n
+run -n
+run -n
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 200 ns  Iteration: 4  Instance: /unitedetraitement_tb/u1/UUT4
+run
+run
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 400 ns  Iteration: 4  Instance: /unitedetraitement_tb/u1/UUT4
+run
+run
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 600 ns  Iteration: 4  Instance: /unitedetraitement_tb/u1/UUT4
+add wave -position end  sim:/unitedetraitement_tb/u1/UUT3/Registre
+restart
+# ** Warning: (vsim-8683) Uninitialized out port /unitedetraitement_tb/u1/flag has no driver.
+# This port will contribute value (U) to the signal network.
+# ** Warning: (vsim-8683) Uninitialized out port /unitedetraitement_tb/u1/N2 has no driver.
+# This port will contribute value (U) to the signal network.
+run
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /unitedetraitement_tb/u1/UUT4
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /unitedetraitement_tb/u1/UUT3
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /unitedetraitement_tb/u1/UUT3
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /unitedetraitement_tb/u1/UUT
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 50 ns  Iteration: 4  Instance: /unitedetraitement_tb/u1/UUT4
+run
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 200 ns  Iteration: 4  Instance: /unitedetraitement_tb/u1/UUT4
+# Compile of Alu.vhd was successful.
+# Compile of Alu_tb.vhd was successful.
+# Compile of Assemblage1.vhd was successful.
+# Compile of bancregistre.vhd was successful.
+# Compile of data.vhd was successful.
+# Compile of extender.vhd was successful.
+# Compile of Mux2.vhd was successful.
+# Compile of tb_assemblage1.vhd was successful.
+# Compile of Unitedetraitement.vhd failed with 1 errors.
+# Compile of Unitedetraitement_tb.vhd was successful.
+# 10 compiles, 1 failed with 1 error. 
+# Compile of Alu.vhd was successful.
+# Compile of Alu_tb.vhd was successful.
+# Compile of Assemblage1.vhd was successful.
+# Compile of bancregistre.vhd was successful.
+# Compile of data.vhd was successful.
+# Compile of extender.vhd was successful.
+# Compile of Mux2.vhd was successful.
+# Compile of tb_assemblage1.vhd was successful.
+# Compile of Unitedetraitement.vhd was successful.
+# Compile of Unitedetraitement_tb.vhd was successful.
+# 10 compiles, 0 failed with no errors. 
+restart
+# Loading work.unitedetraitement_tb(bench)
+# Loading work.unitedetraitement(traitement)
+# Loading work.extender(comportement)
+# Loading work.alu(description)
+# Loading work.mux2(archi_mux2)
+# Loading work.bancregistre(comportement)
+# Loading work.data(comportement)
+# ** Warning: (vsim-8683) Uninitialized out port /unitedetraitement_tb/u1/flag has no driver.
+# This port will contribute value (U) to the signal network.
+# ** Warning: (vsim-8683) Uninitialized out port /unitedetraitement_tb/u1/N2 has no driver.
+# This port will contribute value (U) to the signal network.
+# Warning in wave window restart: (vish-4014) No objects found matching '/unitedetraitement_tb/u1/UUT3/Registre'. 
+add wave -position end  sim:/unitedetraitement_tb/u1/bancreg/Registre
+run
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /unitedetraitement_tb/u1/datam
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /unitedetraitement_tb/u1/bancreg
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /unitedetraitement_tb/u1/bancreg
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /unitedetraitement_tb/u1/exte
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 50 ns  Iteration: 4  Instance: /unitedetraitement_tb/u1/datam
+run
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 200 ns  Iteration: 4  Instance: /unitedetraitement_tb/u1/datam
+# Compile of Alu.vhd was successful.
+# Compile of Alu_tb.vhd was successful.
+# Compile of Assemblage1.vhd was successful.
+# Compile of bancregistre.vhd was successful.
+# Compile of data.vhd was successful.
+# Compile of extender.vhd was successful.
+# Compile of Mux2.vhd was successful.
+# Compile of tb_assemblage1.vhd was successful.
+# Compile of Unitedetraitement.vhd was successful.
+# Compile of Unitedetraitement_tb.vhd was successful.
+# 10 compiles, 0 failed with no errors. 
+restart
+# Loading work.unitedetraitement_tb(bench)
+# Loading work.unitedetraitement(traitement)
+# Loading work.extender(comportement)
+# Loading work.alu(description)
+# Loading work.mux2(archi_mux2)
+# Loading work.bancregistre(comportement)
+# Loading work.data(comportement)
+# ** Warning: (vsim-8683) Uninitialized out port /unitedetraitement_tb/u1/flag has no driver.
+# This port will contribute value (U) to the signal network.
+# ** Warning: (vsim-8683) Uninitialized out port /unitedetraitement_tb/u1/N2 has no driver.
+# This port will contribute value (U) to the signal network.
+run
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /unitedetraitement_tb/u1/datam
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /unitedetraitement_tb/u1/bancreg
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /unitedetraitement_tb/u1/bancreg
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /unitedetraitement_tb/u1/exte
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 50 ns  Iteration: 4  Instance: /unitedetraitement_tb/u1/datam
+run
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 200 ns  Iteration: 4  Instance: /unitedetraitement_tb/u1/datam
+restart
+# ** Warning: (vsim-8683) Uninitialized out port /unitedetraitement_tb/u1/flag has no driver.
+# This port will contribute value (U) to the signal network.
+# ** Warning: (vsim-8683) Uninitialized out port /unitedetraitement_tb/u1/N2 has no driver.
+# This port will contribute value (U) to the signal network.
+run
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /unitedetraitement_tb/u1/datam
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /unitedetraitement_tb/u1/bancreg
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /unitedetraitement_tb/u1/bancreg
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /unitedetraitement_tb/u1/exte
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 50 ns  Iteration: 4  Instance: /unitedetraitement_tb/u1/datam
+restart
+# ** Warning: (vsim-8683) Uninitialized out port /unitedetraitement_tb/u1/flag has no driver.
+# This port will contribute value (U) to the signal network.
+# ** Warning: (vsim-8683) Uninitialized out port /unitedetraitement_tb/u1/N2 has no driver.
+# This port will contribute value (U) to the signal network.
+run
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /unitedetraitement_tb/u1/datam
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /unitedetraitement_tb/u1/bancreg
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /unitedetraitement_tb/u1/bancreg
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /unitedetraitement_tb/u1/exte
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 50 ns  Iteration: 4  Instance: /unitedetraitement_tb/u1/datam
+# Compile of Alu.vhd was successful.
+# Compile of Alu_tb.vhd was successful.
+# Compile of Assemblage1.vhd was successful.
+# Compile of bancregistre.vhd was successful.
+# Compile of data.vhd was successful.
+# Compile of extender.vhd was successful.
+# Compile of Mux2.vhd was successful.
+# Compile of tb_assemblage1.vhd was successful.
+# Compile of Unitedetraitement.vhd was successful.
+# Compile of Unitedetraitement_tb.vhd was successful.
+# 10 compiles, 0 failed with no errors. 
+restart
+# Loading work.unitedetraitement_tb(bench)
+# Loading work.unitedetraitement(traitement)
+# Loading work.extender(comportement)
+# Loading work.alu(description)
+# Loading work.mux2(archi_mux2)
+# Loading work.bancregistre(comportement)
+# Loading work.data(comportement)
+# ** Warning: (vsim-8683) Uninitialized out port /unitedetraitement_tb/u1/flag has no driver.
+# This port will contribute value (U) to the signal network.
+# ** Warning: (vsim-8683) Uninitialized out port /unitedetraitement_tb/u1/N2 has no driver.
+# This port will contribute value (U) to the signal network.
+run
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /unitedetraitement_tb/u1/datam
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /unitedetraitement_tb/u1/bancreg
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /unitedetraitement_tb/u1/bancreg
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /unitedetraitement_tb/u1/exte
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 50 ns  Iteration: 4  Instance: /unitedetraitement_tb/u1/datam
+# Compile of Alu.vhd was successful.
+# Compile of Alu_tb.vhd was successful.
+# Compile of Assemblage1.vhd was successful.
+# Compile of bancregistre.vhd was successful.
+# Compile of data.vhd was successful.
+# Compile of extender.vhd was successful.
+# Compile of Mux2.vhd was successful.
+# Compile of tb_assemblage1.vhd was successful.
+# Compile of Unitedetraitement.vhd was successful.
+# Compile of Unitedetraitement_tb.vhd was successful.
+# 10 compiles, 0 failed with no errors. 
+restart
+# Loading work.unitedetraitement_tb(bench)
+# Loading work.unitedetraitement(traitement)
+# Loading work.extender(comportement)
+# Loading work.alu(description)
+# Loading work.mux2(archi_mux2)
+# Loading work.bancregistre(comportement)
+# Loading work.data(comportement)
+# ** Warning: (vsim-8683) Uninitialized out port /unitedetraitement_tb/u1/flag has no driver.
+# This port will contribute value (U) to the signal network.
+# ** Warning: (vsim-8683) Uninitialized out port /unitedetraitement_tb/u1/N2 has no driver.
+# This port will contribute value (U) to the signal network.
+run
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /unitedetraitement_tb/u1/datam
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /unitedetraitement_tb/u1/bancreg
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /unitedetraitement_tb/u1/bancreg
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /unitedetraitement_tb/u1/exte
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 50 ns  Iteration: 4  Instance: /unitedetraitement_tb/u1/datam
+run
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 200 ns  Iteration: 4  Instance: /unitedetraitement_tb/u1/datam
+run
+add wave -position insertpoint  \
+sim:/unitedetraitement_tb/u1/bancreg/A \
+sim:/unitedetraitement_tb/u1/bancreg/B \
+sim:/unitedetraitement_tb/u1/bancreg/Clk \
+sim:/unitedetraitement_tb/u1/bancreg/RA \
+sim:/unitedetraitement_tb/u1/bancreg/RB \
+sim:/unitedetraitement_tb/u1/bancreg/RW \
+sim:/unitedetraitement_tb/u1/bancreg/Registre \
+sim:/unitedetraitement_tb/u1/bancreg/W \
+sim:/unitedetraitement_tb/u1/bancreg/WE
+restart
+# ** Warning: (vsim-8683) Uninitialized out port /unitedetraitement_tb/u1/flag has no driver.
+# This port will contribute value (U) to the signal network.
+# ** Warning: (vsim-8683) Uninitialized out port /unitedetraitement_tb/u1/N2 has no driver.
+# This port will contribute value (U) to the signal network.
+run
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /unitedetraitement_tb/u1/datam
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /unitedetraitement_tb/u1/bancreg
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /unitedetraitement_tb/u1/bancreg
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /unitedetraitement_tb/u1/exte
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 50 ns  Iteration: 4  Instance: /unitedetraitement_tb/u1/datam
+run
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 200 ns  Iteration: 4  Instance: /unitedetraitement_tb/u1/datam
+run
+run
+run
+run
+add wave -position end  sim:/unitedetraitement_tb/u1/aluu/A
+add wave -position end  sim:/unitedetraitement_tb/u1/aluu/B
+restart
+# ** Warning: (vsim-8683) Uninitialized out port /unitedetraitement_tb/u1/flag has no driver.
+# This port will contribute value (U) to the signal network.
+# ** Warning: (vsim-8683) Uninitialized out port /unitedetraitement_tb/u1/N2 has no driver.
+# This port will contribute value (U) to the signal network.
+run
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /unitedetraitement_tb/u1/datam
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /unitedetraitement_tb/u1/bancreg
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /unitedetraitement_tb/u1/bancreg
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /unitedetraitement_tb/u1/exte
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 50 ns  Iteration: 4  Instance: /unitedetraitement_tb/u1/datam
+run
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 200 ns  Iteration: 4  Instance: /unitedetraitement_tb/u1/datam
+run
+# Compile of Alu.vhd was successful.
+# Compile of Alu_tb.vhd was successful.
+# Compile of Assemblage1.vhd was successful.
+# Compile of bancregistre.vhd was successful.
+# Compile of data.vhd was successful.
+# Compile of extender.vhd was successful.
+# Compile of Mux2.vhd was successful.
+# Compile of tb_assemblage1.vhd was successful.
+# Compile of Unitedetraitement.vhd was successful.
+# Compile of Unitedetraitement_tb.vhd was successful.
+# 10 compiles, 0 failed with no errors. 
+restart
+# Loading work.unitedetraitement_tb(bench)
+# Loading work.unitedetraitement(traitement)
+# Loading work.extender(comportement)
+# Loading work.alu(description)
+# Loading work.mux2(archi_mux2)
+# Loading work.bancregistre(comportement)
+# Loading work.data(comportement)
+# ** Warning: (vsim-8683) Uninitialized out port /unitedetraitement_tb/u1/flag has no driver.
+# This port will contribute value (U) to the signal network.
+# ** Warning: (vsim-8683) Uninitialized out port /unitedetraitement_tb/u1/S(31 downto 0) has no driver.
+# This port will contribute value (UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU) to the signal network.
+# ** Warning: (vsim-8683) Uninitialized out port /unitedetraitement_tb/u1/N2 has no driver.
+# This port will contribute value (U) to the signal network.
+run
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /unitedetraitement_tb/u1/datam
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /unitedetraitement_tb/u1/bancreg
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /unitedetraitement_tb/u1/bancreg
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /unitedetraitement_tb/u1/exte
+run
+run
+run
+run
+# Compile of Alu.vhd was successful.
+# Compile of Alu_tb.vhd was successful.
+# Compile of Assemblage1.vhd was successful.
+# Compile of bancregistre.vhd was successful.
+# Compile of data.vhd was successful.
+# Compile of extender.vhd was successful.
+# Compile of Mux2.vhd was successful.
+# Compile of tb_assemblage1.vhd was successful.
+# Compile of Unitedetraitement.vhd was successful.
+# Compile of Unitedetraitement_tb.vhd was successful.
+# 10 compiles, 0 failed with no errors. 
+restart
+# Loading work.unitedetraitement_tb(bench)
+# Loading work.unitedetraitement(traitement)
+# Loading work.extender(comportement)
+# Loading work.alu(description)
+# Loading work.mux2(archi_mux2)
+# Loading work.bancregistre(comportement)
+# Loading work.data(comportement)
+# ** Warning: (vsim-8683) Uninitialized out port /unitedetraitement_tb/u1/flag has no driver.
+# This port will contribute value (U) to the signal network.
+# ** Warning: (vsim-8683) Uninitialized out port /unitedetraitement_tb/u1/S(31 downto 0) has no driver.
+# This port will contribute value (UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU) to the signal network.
+# ** Warning: (vsim-8683) Uninitialized out port /unitedetraitement_tb/u1/N2 has no driver.
+# This port will contribute value (U) to the signal network.
+run
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /unitedetraitement_tb/u1/datam
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /unitedetraitement_tb/u1/bancreg
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /unitedetraitement_tb/u1/bancreg
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /unitedetraitement_tb/u1/exte
+run
+run
+run
+run
+# Compile of Alu.vhd was successful.
+# Compile of Alu_tb.vhd was successful.
+# Compile of Assemblage1.vhd was successful.
+# Compile of bancregistre.vhd was successful.
+# Compile of data.vhd was successful.
+# Compile of extender.vhd was successful.
+# Compile of Mux2.vhd was successful.
+# Compile of tb_assemblage1.vhd was successful.
+# Compile of Unitedetraitement.vhd was successful.
+# Compile of Unitedetraitement_tb.vhd failed with 1 errors.
+# 10 compiles, 1 failed with 1 error. 
+# Compile of Alu.vhd was successful.
+# Compile of Alu_tb.vhd was successful.
+# Compile of Assemblage1.vhd was successful.
+# Compile of bancregistre.vhd was successful.
+# Compile of data.vhd was successful.
+# Compile of extender.vhd was successful.
+# Compile of Mux2.vhd was successful.
+# Compile of tb_assemblage1.vhd was successful.
+# Compile of Unitedetraitement.vhd was successful.
+# Compile of Unitedetraitement_tb.vhd was successful.
+# 10 compiles, 0 failed with no errors. 
+restart
+# Loading work.unitedetraitement_tb(bench)
+# Loading work.unitedetraitement(traitement)
+# Loading work.extender(comportement)
+# Loading work.alu(description)
+# Loading work.mux2(archi_mux2)
+# Loading work.bancregistre(comportement)
+# Loading work.data(comportement)
+# ** Warning: (vsim-8683) Uninitialized out port /unitedetraitement_tb/u1/flag has no driver.
+# This port will contribute value (U) to the signal network.
+# ** Warning: (vsim-8683) Uninitialized out port /unitedetraitement_tb/u1/S(31 downto 0) has no driver.
+# This port will contribute value (UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU) to the signal network.
+# ** Warning: (vsim-8683) Uninitialized out port /unitedetraitement_tb/u1/N2 has no driver.
+# This port will contribute value (U) to the signal network.
+run
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /unitedetraitement_tb/u1/datam
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /unitedetraitement_tb/u1/bancreg
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /unitedetraitement_tb/u1/bancreg
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /unitedetraitement_tb/u1/exte
+run
+run
+run
+run
+add wave -position end  sim:/unitedetraitement_tb/u1/datam/data
+restart
+# ** Warning: (vsim-8683) Uninitialized out port /unitedetraitement_tb/u1/flag has no driver.
+# This port will contribute value (U) to the signal network.
+# ** Warning: (vsim-8683) Uninitialized out port /unitedetraitement_tb/u1/S(31 downto 0) has no driver.
+# This port will contribute value (UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU) to the signal network.
+# ** Warning: (vsim-8683) Uninitialized out port /unitedetraitement_tb/u1/N2 has no driver.
+# This port will contribute value (U) to the signal network.
+run
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /unitedetraitement_tb/u1/datam
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /unitedetraitement_tb/u1/bancreg
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /unitedetraitement_tb/u1/bancreg
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /unitedetraitement_tb/u1/exte
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+restart
+# ** Warning: (vsim-8683) Uninitialized out port /unitedetraitement_tb/u1/flag has no driver.
+# This port will contribute value (U) to the signal network.
+# ** Warning: (vsim-8683) Uninitialized out port /unitedetraitement_tb/u1/S(31 downto 0) has no driver.
+# This port will contribute value (UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU) to the signal network.
+# ** Warning: (vsim-8683) Uninitialized out port /unitedetraitement_tb/u1/N2 has no driver.
+# This port will contribute value (U) to the signal network.
+run
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /unitedetraitement_tb/u1/datam
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /unitedetraitement_tb/u1/bancreg
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /unitedetraitement_tb/u1/bancreg
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /unitedetraitement_tb/u1/exte
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+restart
+# ** Warning: (vsim-8683) Uninitialized out port /unitedetraitement_tb/u1/flag has no driver.
+# This port will contribute value (U) to the signal network.
+# ** Warning: (vsim-8683) Uninitialized out port /unitedetraitement_tb/u1/S(31 downto 0) has no driver.
+# This port will contribute value (UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU) to the signal network.
+# ** Warning: (vsim-8683) Uninitialized out port /unitedetraitement_tb/u1/N2 has no driver.
+# This port will contribute value (U) to the signal network.
+# Compile of Alu.vhd was successful.
+# Compile of Alu_tb.vhd was successful.
+# Compile of Assemblage1.vhd was successful.
+# Compile of bancregistre.vhd was successful.
+# Compile of data.vhd was successful.
+# Compile of extender.vhd was successful.
+# Compile of Mux2.vhd was successful.
+# Compile of tb_assemblage1.vhd was successful.
+# Compile of Unitedetraitement.vhd was successful.
+# Compile of Unitedetraitement_tb.vhd was successful.
+# 10 compiles, 0 failed with no errors. 
+restart
+# Loading work.unitedetraitement_tb(bench)
+# Loading work.unitedetraitement(traitement)
+# Loading work.extender(comportement)
+# Loading work.alu(description)
+# Loading work.mux2(archi_mux2)
+# Loading work.bancregistre(comportement)
+# Loading work.data(comportement)
+# ** Warning: (vsim-8683) Uninitialized out port /unitedetraitement_tb/u1/flag has no driver.
+# This port will contribute value (U) to the signal network.
+# ** Warning: (vsim-8683) Uninitialized out port /unitedetraitement_tb/u1/S(31 downto 0) has no driver.
+# This port will contribute value (UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU) to the signal network.
+# ** Warning: (vsim-8683) Uninitialized out port /unitedetraitement_tb/u1/N2 has no driver.
+# This port will contribute value (U) to the signal network.
+run
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /unitedetraitement_tb/u1/datam
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /unitedetraitement_tb/u1/bancreg
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /unitedetraitement_tb/u1/bancreg
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /unitedetraitement_tb/u1/exte
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+# Compile of Alu.vhd was successful.
+# Compile of Alu_tb.vhd was successful.
+# Compile of Assemblage1.vhd was successful.
+# Compile of bancregistre.vhd was successful.
+# Compile of data.vhd was successful.
+# Compile of extender.vhd was successful.
+# Compile of Mux2.vhd was successful.
+# Compile of tb_assemblage1.vhd was successful.
+# Compile of Unitedetraitement.vhd was successful.
+# Compile of Unitedetraitement_tb.vhd failed with 1 errors.
+# 10 compiles, 1 failed with 1 error. 
+# Compile of Alu.vhd was successful.
+# Compile of Alu_tb.vhd was successful.
+# Compile of Assemblage1.vhd was successful.
+# Compile of bancregistre.vhd was successful.
+# Compile of data.vhd was successful.
+# Compile of extender.vhd was successful.
+# Compile of Mux2.vhd was successful.
+# Compile of tb_assemblage1.vhd was successful.
+# Compile of Unitedetraitement.vhd was successful.
+# Compile of Unitedetraitement_tb.vhd was successful.
+# 10 compiles, 0 failed with no errors. 
+restart
+# Loading work.unitedetraitement_tb(bench)
+# Loading work.unitedetraitement(traitement)
+# Loading work.extender(comportement)
+# Loading work.alu(description)
+# Loading work.mux2(archi_mux2)
+# Loading work.bancregistre(comportement)
+# Loading work.data(comportement)
+# ** Warning: (vsim-8683) Uninitialized out port /unitedetraitement_tb/u1/flag has no driver.
+# This port will contribute value (U) to the signal network.
+# ** Warning: (vsim-8683) Uninitialized out port /unitedetraitement_tb/u1/S(31 downto 0) has no driver.
+# This port will contribute value (UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU) to the signal network.
+# ** Warning: (vsim-8683) Uninitialized out port /unitedetraitement_tb/u1/N2 has no driver.
+# This port will contribute value (U) to the signal network.
+# Compile of Alu.vhd was successful.
+# Compile of Alu_tb.vhd was successful.
+# Compile of Assemblage1.vhd was successful.
+# Compile of bancregistre.vhd was successful.
+# Compile of data.vhd was successful.
+# Compile of extender.vhd was successful.
+# Compile of Mux2.vhd was successful.
+# Compile of tb_assemblage1.vhd was successful.
+# Compile of Unitedetraitement.vhd was successful.
+# Compile of Unitedetraitement_tb.vhd was successful.
+# 10 compiles, 0 failed with no errors. 
+restart
+# Loading work.unitedetraitement_tb(bench)
+# Loading work.unitedetraitement(traitement)
+# Loading work.extender(comportement)
+# Loading work.alu(description)
+# Loading work.mux2(archi_mux2)
+# Loading work.bancregistre(comportement)
+# Loading work.data(comportement)
+# ** Warning: (vsim-8683) Uninitialized out port /unitedetraitement_tb/u1/flag has no driver.
+# This port will contribute value (U) to the signal network.
+# ** Warning: (vsim-8683) Uninitialized out port /unitedetraitement_tb/u1/S(31 downto 0) has no driver.
+# This port will contribute value (UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU) to the signal network.
+# ** Warning: (vsim-8683) Uninitialized out port /unitedetraitement_tb/u1/N2 has no driver.
+# This port will contribute value (U) to the signal network.
+run
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /unitedetraitement_tb/u1/datam
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /unitedetraitement_tb/u1/bancreg
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /unitedetraitement_tb/u1/bancreg
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /unitedetraitement_tb/u1/exte
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
